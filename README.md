@@ -1,2 +1,2 @@
 # electric-bike
-Code and headwear schematics/info for an electric bike project
+Hardware schematics/info for the electric bike project

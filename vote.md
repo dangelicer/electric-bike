@@ -1,6 +1,6 @@
 ## Votes
 
-Braden:  Dual DC motors, OR RWD DC Motor
+Braden:  Dual DC motors, OR RWD DC Motor  
 Nyaire:  
 Cutter:  
 Daniel:  

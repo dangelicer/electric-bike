@@ -20,11 +20,11 @@ Max Unit Weight: 350lbs
 - Archetype: mechanical disk break
 - Type: dual piston
 - Location: front and back tires
-## Battery
+### Battery
 - Archetype: ..
 - Type: ..
 - Location: ..
-- ## Motors
+### Motors
 - Archetype: ..
 - Type: ..
 - Location: ..

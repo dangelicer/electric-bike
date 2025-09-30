@@ -3,6 +3,7 @@
 
 ## Additional Info
 Average Cost: $50  
+Range: $40-$200
 ### Operation:
 1. When you squeeze the brake lever, you pull on the steel cable.
 2. The cable pulls a lever arm on the brake caliper.

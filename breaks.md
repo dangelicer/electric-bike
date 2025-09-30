@@ -2,7 +2,7 @@
 **Dual Piston Mechanical Disk Break**  
 
 ## Additional Info
-Average Cost: $50 
+Average Cost: $50  
 Range: $40-$200
 ### Operation:
 1. When you squeeze the brake lever, you pull on the steel cable.

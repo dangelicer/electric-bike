@@ -17,6 +17,16 @@ Max Unit Weight: 350lbs
 - Type: half-twist throttle grip
 - Location: Right handlbar
 ### Brakes
-- Archetype: ...
-- Type: ...
+- Archetype: mechanical disk break
+- Type: dual piston
 - Location: front and back tires
+## Battery
+- Archetype: ..
+- Type: ..
+- Location: ..
+- ## Motors
+- Archetype: ..
+- Type: ..
+- Location: ..
+## Gear Box
+- ??? ( idk how to even start this section :| )

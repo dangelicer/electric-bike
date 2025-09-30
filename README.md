@@ -1,8 +1,22 @@
-# electric-bike
-Code and headwear schematics/info for an electric bike project
+# Electric Bike
+**Home page for R.A.T.S eletric bike project**  
 
-## Specs
-top speed: 60mph  
-max unit weight: 300-350lbs  
-bike type: street bike  
- - tire type: hybrid
+## Intended use
+Intended to be used on well paved streets, light gravle, and sidewalks.
+
+## Important Specs
+Top Speed: 30mph  
+Max Unit Weight: 350lbs  
+
+## Components
+### Tires
+- Archetype: hybrid/commuter tires
+- Location: front and back (they will be the same tire)
+### Throttle
+- Archetype: ride-by-wire system
+- Type: half-twist throttle grip
+- Location: Right handlbar
+### Brakes
+- Archetype: ...
+- Type: ...
+- Location: front and back tires

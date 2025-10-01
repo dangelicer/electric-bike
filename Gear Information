@@ -23,6 +23,8 @@ Other Information:
 Gear Ratios - Affects torque applied to an object from a torque source using different teeth counts and gear radi.
 Higher Gear Ratio - A larger driven gear than the driving gear (gear connected to the motor) results in a higher torque output, but a slower rotational speed for the driven gear. (ideal for hills or starting from a stop)
 Lower Gear Ratio - A smaller driven gear than the driving gear results in a higher rotational speed but less torque for the driven gear (ideal for highspeed applications)
+Gear Efficiency- The gear will need to be efficient enough to where the users energy is balanced and can adapt to the different types of terrains depending on how well the gear may preform, allows for more comfortable and consistent cadence and will help to conserve the users energy.
+
 
 Gears and Bikes:
 Higher Gear (lower gear ratio) (Harder to pedal) means larger driving gear, and smaller driven gear. Provides LESS torque but more rotational speed.
@@ -35,23 +37,24 @@ Higher gear ratio (small driving gear to big driven gear), we may sacrifice spee
 
 Conclusions:
 For city commuting or flat terrain: A motor with a moderate torque level (50-80 Nm) and higher speed focus is likely sufficient.
+For unbalanced and off-road terrain: A motor with a torque level (80-120+ Nm) would be required for that task
 
 
 Estimated cost of motor:
 Between $100-200
 
 
-Links:
+Links: Gears/Motors
 ------------------------------------------------------------------
 https://www.vevor.com/brushless-dc-motor-c_11227/750w-electric-brushless-dc-motor-kit-48v-2700rpm-with-upgraded-speed-controller-p_010779274706        
 
 https://www.alibaba.com/product-detail/Mid-drive-Motor-36v-48V-60V_1600426543728.html?mark=google_shopping&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22447501333&adgrp=179561022882&fditm=&tgt=pla-1989436419253&locintrst=&locphyscl=9028540&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=746287692655&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22447501333&gclid=CjwKCAjw_-3GBhAYEiwAjh9fUBNW9yBOCa1ArVONcIMpjlsZfTbiQFOI94Q716bxYCB0L3_GsH929hoCJUoQAvD_BwE
 
+https://www.ebay.com/itm/275959525602?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOopdwxUzYSP6J6vz6R_ZxCz_q2fb6-IfKpdRjT60ncV9ssUxA9zwwMU
 
+https://www.jensonusa.com/sram-gx-eagle-rear-derailleur-52t-max-2?loc=usa&srsltid=AfmBOorBe2hHpquy5NLmVQRrMg_Mzmg8x0kVpOeXP-Rr33IFQW8hxXl11Yw
 
-
-
-
+https://www.rei.com/product/161397/shimano-deore-xt-rd-m8100-sgs-rear-derailleur-12-speed?sku=1613970001&CAWELAID=120217890007682130
 
 
 

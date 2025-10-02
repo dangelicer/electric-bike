@@ -1,0 +1,35 @@
+According to ChatGPT, our estimated weight (350 lbs), desired speed (25 mph), and desired time at max speed (25 mph for 45 mins at full charge) will require a battery with at least 780 Wh (watt-hours).
+
+With the motor and other additions we plan on adding, we will likely need a battery with about 48V in order to power everything adequately.
+As of now, it appears we will be using a 24V, 1/4 horsepower motor, which (according to ChatGPT) will require roughly 185 Wh, which should be sufficient.
+
+For the Ah (amp-hours), there is no necessary number. However, the more amp-hours the battery has the better as it will provide more range for the bike.
+
+With the frame we currently plan on using, the battery should fit perfectly in the middle of the frame.
+
+For what we need, most of the batteries available will be roughly between $200-$500. It may be slightly cheaper to build a battery with cells, but the difference (if there is any) is not worth it for the risk and effort required.
+
+The exact battery we will use depends on exactly what motor we choose, the gears we use, and other additions made to the bike, however this should be a good estimation.
+
+Top Battery Candidates:
+1.) 48V x 17.5 Ah Lithium Ion Battery (*Top Choice*)
+
+Dimensions: 14.17 inches long, 4.33 inches tall, 3.54 inches wide
+Weight: 9.26 lbs
+Energy: 840 Wh
+Pros: Fast charging, battery mount rail
+Cons: Reliability unknown
+Price: $199.50
+Link: https://ebay.us/m/FAJc7K
+
+2.) 48V x 17.5 Ah Battery for Himiway Cruiser
+
+Dimensions: 20.71 inches long, 4.09 inches tall, 3.04 inches wide
+Weight: 9.48 lbs
+Energy: 841 Wh
+Pros: Battery power light, possibly more reliable
+Cons: Increased price, bigger size
+Price: $420.00
+Link: https: //yosepowershop.com/products/e-bike-battery-48v-17-5ah-for-himiway-cruiser-d3-d3-st-ebike?variant=44805937529018&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic
+
+3.) TBD

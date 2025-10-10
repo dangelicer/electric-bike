@@ -47,6 +47,36 @@ Estimated cost for gears:
 Between $40-80
 
 
+
+NEW INFO AS OF (10/9)
+
+https://bike.shimano.com/en-NA/products/components/pdp.P-DU-EP801.html
+https://www.aventon.com/products/aventon-rear-hub-motor-nut-set?variant=42870178775235&mai_source=google&mai_medium=paid&mai_campaign=22835120064&mai_adgroup=191614243148&mai_term=&mai_content={adid}&mai_click_id=CjwKCAjwup3HBhAAEiwA7euZujMRlJ3TzPCeIgxfImfesQydMW8I7kBWHYwns8vHcfZqtQOLfIXjYRoCV3wQAvD_BwE&utm_source=Google&utm_medium=CPC&utm_campaign=22835120064&utm_content=191614243148&utm_term={keywords}&gad_source=1&gad_campaignid=22835120064&gclid=CjwKCAjwup3HBhAAEiwA7euZujMRlJ3TzPCeIgxfImfesQydMW8I7kBWHYwns8vHcfZqtQOLfIXjYRoCV3wQAvD_BwE
+
+CHECK THIS MOTOR OUT:
+https://www.ebay.com/itm/226630541741?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorXWTEjdbJdsm7fTijtjP9OQxD7DC7URuzJcxEH1quYJ2QYt2kPnhQ&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c
+
+
+All calculations at top are accurate, however updates:
+-Actual wheel radius: 14 inches (0.3556 m)
+-(Drag) Max Wind Resistance: 13.3353 lbf (59.318 N)
+-F needed for 350 lb @ 30 mph in 10 seconds: 212.9
+-F needed for above INCLUDING DRAG: 272.218 N
+
+Torque is Force * Radius of the object it is being applied on (in this case the wheel)
+
+-Torque for max F: 96.801 N*m (IN THE WHEEL?)
+
+
+
+
+
+
+
+
+
+
+
 THIRD LINK DOWN IS IDEAL MOTOR (1/4 hp, 24Volt, 1500 RPM, $140)
 Links: Gears/Motors
 ------------------------------------------------------------------
